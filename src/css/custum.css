@@ -1,0 +1,14 @@
+.home::after {
+    content: "";
+    width: 44px;
+    position: absolute;
+    z-index: 10;
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(186, 147, 20, 1) 0%, rgba(87, 199, 133, 1) 0%, rgba(215, 126, 96, 1) 0%, rgba(242, 209, 19, 1) 0%, rgba(219, 107, 58, 1) 54%, rgba(217, 100, 61, 1) 81%);
+    ;
+    height: 1.5px;
+    top:30px;
+    left: 0;
+
+
+}
